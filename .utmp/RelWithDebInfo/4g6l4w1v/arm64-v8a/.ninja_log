@@ -1,0 +1,12 @@
+# ninja log v5
+89	658	7608646955612632	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	904718f5a476522b
+661	1397	7608646962385904	C:/Users/alexl/Desktop/DeforestationAdventure/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4g6l4w1v/obj/arm64-v8a/libswappywrapper.so	c6fe1accf494de28
+54	2532	7608646973998682	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b46b4afb16a19cee
+13	2663	7608646974881979	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	cd57ab1f2adde744
+78	2679	7608646975323652	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	1e809ed01e91c54c
+65	2853	7608646977179455	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	bb8d0ab6585eaab7
+35	2868	7608646977608373	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	1e902e6f52dc0cfc
+24	2937	7608646978327846	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	c28198ea0e988544
+44	3188	7608646980919874	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	98587ea399250479
+1	3388	7608646982904261	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	c6f4c64890473b3d
+3389	3572	7608646984921919	C:/Users/alexl/Desktop/DeforestationAdventure/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4g6l4w1v/obj/arm64-v8a/libgame.so	57f41a788225d698
